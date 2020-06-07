@@ -1,0 +1,38 @@
+header{
+	background-color: blue;
+}
+
+aside{
+	background-color: aqua;
+	top: 0;
+    bottom: 0;
+    margin-left: 1300px;
+    margin-right: -200px;
+    width: 300px;
+    height: 20px;
+}
+
+h4:nth-last-of-type(1){
+	text-align: right;
+}
+
+p:nth-of-type(1){
+	font-size: 19px;
+	font-weight: bold;
+}
+
+p:nth-of-type(2){
+	font-size: 15px;
+	font-weight: normal;
+}
+
+section{
+	line-height: 3;
+	margin-left: 80px;
+	margin-right: 300px;
+}
+
+small{
+	font-size: 14px;
+	font-weight: bold;
+}

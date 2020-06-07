@@ -1,0 +1,19 @@
+header{
+	background-color: aqua;
+	height: 40px;
+}
+
+section{
+	line-height: 3;
+	margin-left: 50px;
+}
+
+h3{
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+span{
+	font-size: 15px;
+	font-weight: bold;
+}
