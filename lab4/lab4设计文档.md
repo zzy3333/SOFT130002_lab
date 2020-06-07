@@ -1,0 +1,10 @@
+#lab4设计文档
+---
+！[主页截图](images/home.jpg)
+---
+导航栏部分参考了bootstrap文档上的示例,但是将navbar-default改为navbar-inverse。
+---
+轮播图片部分采取了bootstrap文档中的示例。
+---
+下部6个小图片采用了bootstrap的栅格系统，并利用css设置了margin和board等。
+---

@@ -1,0 +1,24 @@
+body{
+	background-image: url(images/background.jfif);
+}
+
+nav{
+	color: black;
+}
+
+#table{
+	margin: 30px 20px;
+	border: 3px black solid;
+	background-color: rgba(240,200,200,0.1);
+}
+
+div.col-md-4{
+	border: 2px black solid;
+	padding: 5px;
+	color: silver;
+}
+
+footer p{
+	margin-left: 30px;
+	color: silver;
+}
